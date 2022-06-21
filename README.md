@@ -44,5 +44,3 @@ Arround 3 hours (maybe 4)
 ### Useful resources
 
 - [Example resource 1](https://www.sitepoint.com/atoz-css-translate-vs-position/#:~:text=position%20is%20a%20CSS2%20property,be%20an%20option%20for%20you.) - საკაიფო სტატია იმის გასაგებად თუ რა სხვაობაა transform სა და position absolute (relative) შორის
-
-
